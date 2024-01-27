@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
             const Text(
               'Instagram에 오신 것을 환영합니다.',
               style: TextStyle(
-                fontSize: 24,
+                fontSize: 23,
                 fontWeight: FontWeight.w500,
               ),
             ),
